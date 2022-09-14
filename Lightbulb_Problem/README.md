@@ -1,4 +1,4 @@
-# Light bulb Problem
+# Lightbulb_Problem
 
     This program is used to visually simulate how a row of n number of light bulbs will change after the following
     algorithm occurs:
